@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "GD205_Spring_2018",
+"dataUrl": "Board in Space.data.unityweb",
+"asmCodeUrl": "Board in Space.asm.code.unityweb",
+"asmMemoryUrl": "Board in Space.asm.memory.unityweb",
+"asmFrameworkUrl": "Board in Space.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
